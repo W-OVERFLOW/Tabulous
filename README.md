@@ -1,3 +1,7 @@
+# Please check out [VanillaHUD](https://github.com/Polyfrost/VanillaHUD) instead of this mod. It support OneConfig and allows for much more features.
+
+----
+
 # Tabulous by W-OVERFLOW
 Tabulous is a fully customizable, lightweight tab mod, which doesn't overwrite the rendering system of Minecraft. It has beautiful tab features without effecting the performance of your game, so you can PvP at the top of your game. It has custom colors, animations, positioning, and so much more!
 
